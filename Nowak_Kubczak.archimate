@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Nowak_Kubczak" id="365c625f-4ccd-41a6-aa81-93213b459528" version="4.4.0">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Nowak_Kubczak" id="365c625f-4ccd-41a6-aa81-93213b459528" version="4.6.0">
   <folder name="Strategy" id="9a5e99a9-67a1-487b-bf49-6345d2febe3d" type="strategy">
     <element xsi:type="archimate:Resource" name="Składniki" id="7239a9f5-42f9-4e08-a4ea-539194feaac7"/>
   </folder>
@@ -29,6 +29,7 @@
     <element xsi:type="archimate:BusinessProcess" name="Business Process" id="cd330e00-7368-48f9-9f3f-a66c35d4949e"/>
     <element xsi:type="archimate:BusinessProcess" name="Raportowanie" id="e4daa0e5-75a9-4c17-bf85-8eadb6adf8e5"/>
     <element xsi:type="archimate:BusinessActor" name="Dostawcy produktów spożywczych" id="f770180b-8b2d-4739-834d-c912aca51677"/>
+    <element xsi:type="archimate:Contract" name="tmp" id="e635448c-6f16-413a-b6d3-9db0d9256a76"/>
   </folder>
   <folder name="Application" id="b8407470-c16b-48ca-9a31-5596c7b558da" type="application">
     <element xsi:type="archimate:ApplicationCollaboration" name="Application Collaboration" id="00baf1c5-e522-46b0-a243-06e3065e5875"/>
