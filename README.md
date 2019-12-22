@@ -1,0 +1,3 @@
+- Visual paradigm v16.1
+- Archimate v4.6
+- Bizagi v3.6.0.044
