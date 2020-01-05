@@ -5,7 +5,7 @@
     <element xsi:type="archimate:Resource" name="Materiały" id="00bfc498-6b84-41ed-bc8c-9402b9360104"/>
   </folder>
   <folder name="Business" id="43fec962-a6ff-499e-b32d-b93271976008" type="business">
-    <element xsi:type="archimate:BusinessActor" name="Właściciel firmy" id="d03606bd-e1d7-4dfe-bebe-b28a9450c9ef"/>
+    <element xsi:type="archimate:BusinessActor" name="Właściciel pizzerii" id="d03606bd-e1d7-4dfe-bebe-b28a9450c9ef"/>
     <element xsi:type="archimate:BusinessProcess" name="Obsługa zamówień" id="e24c86af-a561-4fba-8d06-376c6ab4f76e"/>
     <element xsi:type="archimate:BusinessProcess" name="Przyjmowanie zamówień" id="1d19c060-b2c6-461b-9380-958f73c62144"/>
     <element xsi:type="archimate:BusinessProcess" name="Tworzenie produktu" id="34a987b7-cd92-4c00-a4c5-bf5ab7e7e3af"/>
@@ -38,7 +38,7 @@
     <element xsi:type="archimate:BusinessProcess" name="Realizacja zamówienia" id="3c278497-6847-4dc1-890b-6f62563ba509"/>
     <element xsi:type="archimate:BusinessProcess" name="Przyjmowanie zamówień manualnie" id="8e80c591-0243-4ee8-963c-bd72a6f01e51"/>
     <element xsi:type="archimate:BusinessProcess" name="Przyjmowanie zamówień telefonicznie" id="e28f22ad-f339-4d7f-bb5a-1660e10c5624"/>
-    <element xsi:type="archimate:BusinessActor" name="Kuchnia" id="9d5c73c0-6ab5-42d0-b206-14f162b1727f"/>
+    <element xsi:type="archimate:BusinessActor" name="Pracownik kuchni" id="9d5c73c0-6ab5-42d0-b206-14f162b1727f"/>
     <element xsi:type="archimate:BusinessActor" name="Dostawca materiałów" id="185a4d92-f808-4268-b1f0-1e7e4acf5af6"/>
     <element xsi:type="archimate:BusinessProcess" name="Generowanie raportów" id="a9441045-9b1e-4ed4-b42b-333fca69f4b2"/>
     <element xsi:type="archimate:BusinessProcess" name="Uzupełnianie zasobów" id="c55bb3b5-7ead-4f19-88c7-08af44fe400c"/>
@@ -62,7 +62,7 @@
     <element xsi:type="archimate:ApplicationEvent" name="Nowe zamówienie" id="797c1691-e1c7-426f-bf20-49d50f08421c"/>
     <element xsi:type="archimate:ApplicationEvent" name="Zamówienie zrealizowane" id="dc48e8c9-8050-4ffa-a635-8c95784fc4f0"/>
     <element xsi:type="archimate:ApplicationEvent" name="Przekroczony czas zamówienia" id="7fb51e56-35d5-4eb3-a6bf-9e9ac0564530"/>
-    <element xsi:type="archimate:ApplicationComponent" name="Aplikacja dla klienta" id="8f4ec348-ebc9-4cbf-bc8e-97bb26a267b2"/>
+    <element xsi:type="archimate:ApplicationComponent" name="Moduł klienta" id="8f4ec348-ebc9-4cbf-bc8e-97bb26a267b2"/>
     <element xsi:type="archimate:ApplicationFunction" name="Przyjmowanie zamówień" id="1e0916b2-f12e-4cca-b32f-bac7ec639856"/>
     <element xsi:type="archimate:ApplicationEvent" name="Nowe zamówienie" id="6d98e42e-05d3-4e3a-908f-bc62c88a12c4"/>
     <element xsi:type="archimate:ApplicationEvent" name="Zamówienie zrealizowane (copy)" id="2b8aefbd-79f1-4bf6-85d8-87f1892bb38f"/>
@@ -173,7 +173,7 @@
     <element xsi:type="archimate:Device" name="Smartphone dostawcy" id="86fed16c-63ca-4c8a-aa72-6d7d1b73c1d5"/>
     <element xsi:type="archimate:Device" name="Smartphone dostawcy" id="b1ad76d1-55c8-4265-aae2-a124f2d3f438"/>
     <element xsi:type="archimate:SystemSoftware" name="System księgowości" id="9523b855-cbbb-42c3-a96f-afcb3e244793"/>
-    <element xsi:type="archimate:SystemSoftware" name="Aplikacja" id="d2e0d018-2b22-46ee-8f9e-502ba0c94927"/>
+    <element xsi:type="archimate:SystemSoftware" name="Aplikacja pizzerii" id="d2e0d018-2b22-46ee-8f9e-502ba0c94927"/>
     <element xsi:type="archimate:TechnologyInterface" name="Technology Interface" id="04ba3d38-dac0-4ba4-9d38-6f0ed9abe760"/>
     <element xsi:type="archimate:TechnologyService" name="Hosting aplikacji dla klientów" id="7beeebae-ae1c-4d9b-80c9-a0dbb6a9281b"/>
     <element xsi:type="archimate:TechnologyService" name="Hosting aplikacji wewnętrznej" id="9b578357-25fd-4374-9b70-8572b2217967"/>
