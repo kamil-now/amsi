@@ -192,10 +192,10 @@
     <element xsi:type="archimate:Principle" name="Kodeks pracy" id="239459be-0364-484f-ab15-394ffceaa272"/>
     <element xsi:type="archimate:Principle" name="Ustawa o warunkach zdrowotnych żywności i żywienia" id="2376c70a-4169-4e05-be83-4bd8e4f049d0"/>
     <element xsi:type="archimate:Principle" name="Biznes plan" id="d503edec-1448-4913-810b-c86b9d9cad65"/>
-    <element xsi:type="archimate:Requirement" name="Zamówienia oraz płatność przez internet" id="2d62c5fa-f222-498d-a16e-4ac0dbf2bd10"/>
-    <element xsi:type="archimate:Requirement" name="Otrzymanie informacji zwrotnej od klientów" id="e76cb7cb-adf9-4d00-a615-9a30a1b1eb23"/>
-    <element xsi:type="archimate:Requirement" name="Częściowe zautomatyzowanie procesu realizacji zamówień" id="1f3e60c4-3882-417d-b03d-f03c7d13cb47"/>
-    <element xsi:type="archimate:Requirement" name="Optymalizacja procesu uzupełniania zasobów" id="7353f352-8e39-4205-82fe-2d4f3a95a357"/>
+    <element xsi:type="archimate:Requirement" name="WB-001 Składanie zamówień oraz płatności przez internet" id="2d62c5fa-f222-498d-a16e-4ac0dbf2bd10"/>
+    <element xsi:type="archimate:Requirement" name="WB-002 Otrzymanie informacji zwrotnej od klientów" id="e76cb7cb-adf9-4d00-a615-9a30a1b1eb23"/>
+    <element xsi:type="archimate:Requirement" name="WB-003 Częściowe zautomatyzowanie procesu realizacji zamówień" id="1f3e60c4-3882-417d-b03d-f03c7d13cb47"/>
+    <element xsi:type="archimate:Requirement" name="WB-004 Optymalizacja procesu uzupełniania zasobów" id="7353f352-8e39-4205-82fe-2d4f3a95a357"/>
     <element xsi:type="archimate:Value" name="Zadowolenie klientów" id="aab06d91-a334-4193-b57d-aa0f8b568e3e"/>
     <element xsi:type="archimate:Value" name="Obniżenie ilości błędów" id="26d8bfa1-8d44-47c7-8c74-4bcd420558a4"/>
     <element xsi:type="archimate:Value" name="Szybkość obsługi" id="f4440d12-7d91-4978-85e7-3ec9f8bbe5ad"/>
@@ -204,7 +204,7 @@
     <element xsi:type="archimate:Goal" name="Zadowolenie klientów" id="328f564a-544b-404a-b85c-3c6103d20bc5"/>
     <element xsi:type="archimate:Goal" name="Optymalizacja pracy" id="20f5451e-e388-4075-a0b1-c8ac9e0978a2"/>
     <element xsi:type="archimate:Goal" name="Szybkość obsługi" id="8073e99f-ff49-4cfa-9a8f-e0017df5a68b"/>
-    <element xsi:type="archimate:Requirement" name="Generowanie raportów i statysyk dostępnych dla właściciela pizzerii" id="6dab534d-c15b-474f-8ebd-dad731234c62"/>
+    <element xsi:type="archimate:Requirement" name="WB-005 Generowanie raportów i statysyk dostępnych dla właściciela pizzerii" id="6dab534d-c15b-474f-8ebd-dad731234c62"/>
   </folder>
   <folder name="Implementation &amp; Migration" id="42d8340a-857c-4841-b84c-4e419cc6a659" type="implementation_migration"/>
   <folder name="Other" id="0c382027-1d0c-492d-8330-fd27b1883f77" type="other">
